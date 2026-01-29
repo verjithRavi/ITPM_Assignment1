@@ -1,0 +1,19 @@
+{
+  "name": "itpm_assignment1_playwright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "report": "playwright show-report"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.58.0"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
